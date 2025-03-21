@@ -31,7 +31,7 @@ export default {
     return{
         textHomeP:"Hello I'm",
         textHomeH1:'Web Programming',
-        textHomeMyName:'Parsa Easy',
+        textHomeMyName:'Parsa Eizy',
         textHomeDescription:'I Am From Iran And I Am Seventeen Years Old And I Have Been Programming For About eight Months',
         textHomeBtn:'My Work'
     }
